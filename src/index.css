@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -65,4 +66,14 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+=======
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background:black;
+>>>>>>> a37ed5b29062e5a673d1e16c24de6d45265fb0f5
 }
